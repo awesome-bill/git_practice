@@ -2,7 +2,8 @@ h1 {
     font-family:'Times New Roman', Times, serif;
     font-size:x-large;
     color:aqua;
-    background-color: black;
+    background-color: cyan;
+    border: 8px dotted #1C6EA4;
 }
 
 h6 {
